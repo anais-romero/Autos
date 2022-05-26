@@ -1,0 +1,5 @@
+rootProject.name = "Autos"
+include ':app'
+include ':autos'
+include ':Autos'
+include ':Autos'
